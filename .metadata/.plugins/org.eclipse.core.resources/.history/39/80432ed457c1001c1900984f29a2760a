@@ -1,0 +1,9 @@
+package com.rafaelsantos.parkingcontrol.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.rafaelsantos.parkingcontrol.models.ParkingSpotModel;
+
+public interface ParkingSpotRepository extends JpaRepository<ParkingSpotModel, UUID>{
+
+}

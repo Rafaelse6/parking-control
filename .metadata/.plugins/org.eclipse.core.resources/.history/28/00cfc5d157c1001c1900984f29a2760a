@@ -1,0 +1,5 @@
+package com.rafaelsantos.parkingcontrol.repositories;
+
+public interface ParkingSpotRepository {
+
+}

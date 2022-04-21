@@ -1,0 +1,5 @@
+package com.rafaelsantos.parkingcontrol.DTO;
+
+public class ParkingSpotDTO {
+
+}

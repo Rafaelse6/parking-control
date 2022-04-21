@@ -1,0 +1,5 @@
+package com.rafaelsantos.parkingcontrol.controllers;
+
+public class ParkingSpotController {
+
+}
